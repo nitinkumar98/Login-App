@@ -1,0 +1,15 @@
+body
+{
+	font-family: 'Sniglet', cursive;
+
+}
+.new-container
+{
+	width: 100%  !important;
+		margin: 0 auto !important;
+}
+.card-width
+{
+	width: 70%;
+	margin:0 auto !important;
+}
